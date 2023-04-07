@@ -37,4 +37,8 @@ public class GrupoExame {
         System.out.println("Grupo do Exame: " + this.getDescricao());
         System.out.println("--------------------------------");
     }
+
+    public void listarGrupoExame() {
+
+    }
 }
